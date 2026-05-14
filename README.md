@@ -2,17 +2,17 @@
 
 I'm a data enthusiast based in Sydney.
 
-BCom in Business Analytics and Accounting, Macquarie University. WAM 81, 2024 Merit List.
+BCom in Business Analytics and Accounting from Macquarie University. 
 
 I analyse customer and sales data, build models, and turn findings into recommendations that people actually act on. I've presented to clients, teams, and senior leadership — and I know how to make data make sense to a non-technical audience.
 
+**What I've built:** Customer segmentation models. Interactive dashboards for a real client. Price prediction models. Time series forecasts. Regression and ANOVA analyses. All with a clear business recommendation at the end.
+
+**What I do:** SQL querying · data cleaning · exploratory data analysis · statistical modelling · machine learning · dashboard design · stakeholder reporting
+
+**Currently working on:** Practising SQL on real datasets · publishing dashboards to Tableau Public · working through consulting case studies
+
 Feel free to browse my work, connect, or just drop a message!
-
----
-
-## 🔨 What I've built
-
-Customer segmentation models. Interactive dashboards for a real client. Price prediction models. Time series forecasts. Regression and ANOVA analyses. All with a clear business recommendation at the end.
 
 ---
 
@@ -38,15 +38,6 @@ Customer segmentation models. Interactive dashboards for a real client. Price pr
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-
-
-**What I do:** SQL querying · data cleaning · exploratory data analysis · statistical modelling · machine learning · dashboard design · stakeholder reporting
-
----
-
-## 🌱 Currently working on
-
-Practising SQL on real datasets · publishing dashboards to Tableau Public · working through consulting case studies
 
 ---
 
