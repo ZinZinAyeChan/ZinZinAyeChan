@@ -1,0 +1,75 @@
+# Hi, I'm Zin Zin 👋
+
+I'm a data enthusiast based in Sydney.
+
+BCom in Business Analytics and Accounting, Macquarie University. WAM 81, 2024 Merit List.
+
+I analyse customer and sales data, build models, and turn findings into recommendations that people actually act on. I've presented to clients, teams, and senior leadership — and I know how to make data make sense to a non-technical audience.
+
+Feel free to browse my work, connect, or just drop a message!
+
+---
+
+## 🔨 What I've built
+
+Customer segmentation models. Interactive dashboards for a real client. Price prediction models. Time series forecasts. Regression and ANOVA analyses. All with a clear business recommendation at the end.
+
+---
+
+## 🛠️ Tools & Skills
+
+**Query & Data**
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Visualisation & Reporting**
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![R Markdown](https://img.shields.io/badge/R%20Markdown-276DC3?style=flat-square&logo=r&logoColor=white)
+
+**Libraries**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+
+**Finance & Accounting**
+
+![Xero](https://img.shields.io/badge/Xero-13B5EA?style=flat-square&logo=xero&logoColor=white)
+![MYOB](https://img.shields.io/badge/MYOB-6D2077?style=flat-square&logoColor=white)
+
+**What I do:** SQL querying · data cleaning · exploratory data analysis · statistical modelling · machine learning · dashboard design · stakeholder reporting
+
+---
+
+## 📌 Projects
+
+| Project | Tools | Highlight |
+|---|---|---|
+| [Customer Segmentation Analysis](#) | Python, Scikit-learn | 4,000 customers segmented into 4 clusters — silhouette score 0.50 |
+| [Impact100 Analytics Dashboard](#) | Tableau, Excel | Multi-persona interactive dashboard delivered to a real client |
+| [Used Car Price Prediction](#) | Python, Scikit-learn | Random Forest outperformed Elastic Net and Linear Regression (private score: 0.120) |
+| [Retail Turnover Forecasting](#) | Excel | Multiple regression on ABS data, R² = 0.93, 12-month forecast |
+| [Traffic Pollution Regression](#) | R, R Markdown | Multiple regression + two-way ANOVA, R² = 0.74 |
+| [Real Estate Investment Analysis](#) | Excel | CPI-adjusted returns across dwelling types in Ryde LGA vs Greater Sydney |
+
+---
+
+## 🌱 Currently working on
+
+Practising SQL on real datasets · publishing dashboards to Tableau Public · working through consulting case studies
+
+---
+
+## 📬 Get in touch
+
+Actively looking for insights, business analyst, or junior consulting roles in Sydney.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/zinzin-ayechan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zinzinayechan@gmail.com)
