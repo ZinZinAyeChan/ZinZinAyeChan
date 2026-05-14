@@ -39,25 +39,8 @@ Customer segmentation models. Interactive dashboards for a real client. Price pr
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 
-**Finance & Accounting**
-
-![Xero](https://img.shields.io/badge/Xero-13B5EA?style=flat-square&logo=xero&logoColor=white)
-![MYOB](https://img.shields.io/badge/MYOB-6D2077?style=flat-square&logoColor=white)
 
 **What I do:** SQL querying · data cleaning · exploratory data analysis · statistical modelling · machine learning · dashboard design · stakeholder reporting
-
----
-
-## 📌 Projects
-
-| Project | Tools | Highlight |
-|---|---|---|
-| [Customer Segmentation Analysis](#) | Python, Scikit-learn | 4,000 customers segmented into 4 clusters — silhouette score 0.50 |
-| [Impact100 Analytics Dashboard](#) | Tableau, Excel | Multi-persona interactive dashboard delivered to a real client |
-| [Used Car Price Prediction](#) | Python, Scikit-learn | Random Forest outperformed Elastic Net and Linear Regression (private score: 0.120) |
-| [Retail Turnover Forecasting](#) | Excel | Multiple regression on ABS data, R² = 0.93, 12-month forecast |
-| [Traffic Pollution Regression](#) | R, R Markdown | Multiple regression + two-way ANOVA, R² = 0.74 |
-| [Real Estate Investment Analysis](#) | Excel | CPI-adjusted returns across dwelling types in Ryde LGA vs Greater Sydney |
 
 ---
 
