@@ -2,7 +2,7 @@
 
 I'm a data enthusiast based in Sydney.
 
-BCom in Business Analytics and Accounting from Macquarie University. 
+BCom graduate in Business Analytics and Accounting from Macquarie University. 
 
 I analyse customer and sales data, build models, and turn findings into recommendations that people actually act on. I've presented to clients, teams, and senior leadership — and I know how to make data make sense to a non-technical audience.
 
