@@ -6,7 +6,7 @@ BCom graduate in Business Analytics and Accounting from Macquarie University.
 
 I analyse customer and sales data, build models, and turn findings into recommendations that people actually act on. I've presented to clients, teams, and senior leadership — and I know how to make data make sense to a non-technical audience.
 
-**What I've built:** Customer segmentation models. Interactive dashboards for a real client. Price prediction models. Time series forecasts. Regression and ANOVA analyses. All with a clear business recommendation at the end.
+**What I've built:** Interactive dashboards for a real client. Customer segmentation models. Price prediction models. Time series forecasts. Regression and ANOVA analyses. All with a clear business recommendation at the end.
 
 **What I do:** SQL querying · data cleaning · exploratory data analysis · statistical modelling · machine learning · dashboard design · stakeholder reporting
 
