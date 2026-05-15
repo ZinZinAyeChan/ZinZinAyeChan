@@ -10,7 +10,7 @@ I analyse customer and sales data, build models, and turn findings into recommen
 
 **What I do:** SQL querying · data cleaning · exploratory data analysis · statistical modelling · machine learning · dashboard design · stakeholder reporting
 
-**Currently working on:** Practising SQL on real datasets · publishing dashboards to Tableau Public · working through consulting case studies
+**Currently working on:** Practising SQL on real datasets · publishing dashboards to Tableau Public · learning machine learning and AI fundamentals
 
 Feel free to browse my work, connect, or just drop a message!
 
